@@ -1,0 +1,5 @@
+<ContentData>
+  <TuioServerPort>3333</TuioServerPort>
+  <IdleLockDuration>3000</IdleLockDuration>
+  <SyncDelayTime>1000</SyncDelayTime>
+</ContentData>

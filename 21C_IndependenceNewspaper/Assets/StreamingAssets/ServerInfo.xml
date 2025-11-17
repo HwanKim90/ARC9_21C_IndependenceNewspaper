@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ServerInfo>
+  <Server>
+    <TCPServerIP>localhost</TCPServerIP>
+    <TCPServerPort>8997</TCPServerPort>
+    <DBServerIP>https://dev.nextlevelapi.kr</DBServerIP>
+    <DBServerPort>8997</DBServerPort>
+    <Corner_Code>52</Corner_Code>
+    <Equipment>1</Equipment>
+  </Server>
+</ServerInfo>
